@@ -14,7 +14,7 @@ ls
 grep -c isogroup00036 my_file.fasta
 
 #5. Reemplace el delimitador original "dos espacios" por una coma
-cat my_file.fasta | tr -s " " "," | head -n 5
+cat my_file.fasta | tr -s "  " "," | head -n 5
 
 #6. ¿Cuántos isogrupos únicos hay en el archivo?
 grep ">" my_file.fasta | head -n 5
