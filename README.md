@@ -7,10 +7,10 @@
 
 ### Programas utilizados
 1. En los ejercicios del 1-5 se utilizó **Git Bash 2.33.1** y **Atom 1.58.0**
-2. En los ejercicios del 8-10 se utilizó **Anaconda3 2021.05 (Python 3.8.8 64-bit)**
+2. En los ejercicios del 8-10 se utilizó **Anaconda3 2021.05 (Python 3.8.8 64-bit)** para ejecutar **Jupyter Notebook 6.3.0**
 
 ### Explicación de la data utilizada 
-Se utilizaron diferentes bases de datos para la realización de los diferentes ejercicios:
+Se utilizaron 5 bases de datos para la realización de los diferentes ejercicios:
 ***
 Los siguientes archivos se encuentran en el directorio [Evidencia](https://github.com/AntonellaOrtiz/GBI6_ExamenParcial1/tree/main/Evidencia)
 - ***[Gesquiere2011_data.csv](https://github.com/AntonellaOrtiz/GBI6_ExamenParcial1/blob/main/Evidencia/Gesquiere2011_data.csv)***: muestra datos de un estudio de los niveles hormonales en la sangre de babuinos organizados en tres diferentes columnas, donde la primera columna es la de interés (maleID = número del individuo, cada individuo fue muestreado).
