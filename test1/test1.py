@@ -1,1 +1,1 @@
-print(Hola GBI6)
+print("Hola GBI6")
